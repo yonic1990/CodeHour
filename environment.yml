@@ -2,3 +2,6 @@ name: CodeHour
 dependencies:
     - python=3.6.*
     - numpy
+    - os
+    - matplotlib
+    - pickle
